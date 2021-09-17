@@ -1,6 +1,7 @@
 # Adversarial Coorperative Imitation Learning 
 
 we propose the S2IL model, to deduce the optimal dynamic treatment regimes.
+
 ###Dependencies
 
 This code requires the following:
