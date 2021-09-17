@@ -1,4 +1,4 @@
-# Adversarial Coorperative Imitation Learning 
+**Subgoal-conditioned Self-Imitation Learning**
 
 we propose the S2IL model, to deduce the optimal dynamic treatment regimes.
 
@@ -45,7 +45,3 @@ Usage Instructions:
 
 ``> python train.py``
 
-
-###Contact
-
-To ask questions or report issues, please open an issue on the issues tracker. Or send an email to wyu@nec-labs.com.
